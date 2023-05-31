@@ -58,7 +58,3 @@ The Sockpuppet Prototype relies on the following dependencies:
 - osc: Open Sound Control library for Node.js. [npm package](https://www.npmjs.com/package/osc)
 
 These dependencies are automatically installed when you run `npm install` as described in the installation steps above.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
