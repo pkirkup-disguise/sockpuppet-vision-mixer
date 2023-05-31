@@ -53,12 +53,9 @@ This will start the Node.js server that listens for OSC messages and serves the 
 
 The Sockpuppet Prototype relies on the following dependencies:
 
-- Express: Fast, unopinionated, minimalist web framework for Node.js.
-- [npm package](https://www.npmjs.com/package/express)
-- Body-parser: Node.js body parsing middleware.
-- [npm package](https://www.npmjs.com/package/body-parser)
-- osc: Open Sound Control library for Node.js.
-- [npm package](https://www.npmjs.com/package/osc)
+- Express: Fast, unopinionated, minimalist web framework for Node.js. [npm package](https://www.npmjs.com/package/express)
+- Body-parser: Node.js body parsing middleware.  [npm package](https://www.npmjs.com/package/body-parser)
+- osc: Open Sound Control library for Node.js. [npm package](https://www.npmjs.com/package/osc)
 
 These dependencies are automatically installed when you run `npm install` as described in the installation steps above.
 
