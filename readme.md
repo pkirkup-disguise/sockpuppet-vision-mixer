@@ -2,6 +2,9 @@
 
 This is a prototype application that allows you to control video playback and transitions using OSC (Open Sound Control) messages. The application consists of a server-side component written in Node.js and a client-side component using HTML, CSS, and JavaScript.
 
+![image](https://github.com/pkirkup-disguise/sockpuppet-vision-mixer/assets/71440017/31c3944b-fc05-43d2-bd24-dcb9cfd4e692)
+
+
 ## Getting Started
 
 To set up and run the Sockpuppet Prototype, follow these steps:
