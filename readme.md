@@ -16,7 +16,7 @@ To set up and run the Sockpuppet Prototype, follow these steps:
 ### Installation
 
 1. Clone the repository to your local machine:
-`git clone https://github.com/your-username/sockpuppet-prototype.git`
+`git clone https://github.com/pkirkup-disguise/sockpuppet-vision-mixer.git`
 
 
 2. Navigate to the project directory:
