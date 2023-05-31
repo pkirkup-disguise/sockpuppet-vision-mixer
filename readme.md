@@ -37,6 +37,18 @@ This will start the Node.js server that listens for OSC messages and serves the 
 
 2. Open a web browser and visit [http://localhost:3000](http://localhost:3000) to access the application.
 
+
+### Usage 
+
+1. The project expects 3 Video layers patched to Sockpuppet, per the configuration below:
+2. 
+![image](https://github.com/pkirkup-disguise/sockpuppet-vision-mixer/assets/71440017/6872158f-a13f-4beb-b1bd-6cbaf9243bf7)
+
+2. The Notch block transition receives two arrow inputs for clip A and clip B, and a float value manages the transition from one clip to another. The notch block is configured to pass alpha so the background is revealed during the transition.
+
+![image](https://github.com/pkirkup-disguise/sockpuppet-vision-mixer/assets/71440017/6de423ce-f1f0-44d8-b51d-cbab08661d19)
+
+
 ## Dependencies
 
 The Sockpuppet Prototype relies on the following dependencies:
