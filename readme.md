@@ -16,22 +16,22 @@ To set up and run the Sockpuppet Prototype, follow these steps:
 ### Installation
 
 1. Clone the repository to your local machine:
-'git clone https://github.com/your-username/sockpuppet-prototype.git'
+`git clone https://github.com/your-username/sockpuppet-prototype.git`
 
 
 2. Navigate to the project directory:
-'cd sockpuppet-vision-mixer'
+`cd sockpuppet-vision-mixer`
 
 3. Install the dependencies using npm:
 
-'npm install'
+`npm install`
 
 
 ### Running the Application
 
 1. Start the server:
 
-'node server.js'
+`node server.js`
 
 This will start the Node.js server that listens for OSC messages and serves the client-side files.
 
